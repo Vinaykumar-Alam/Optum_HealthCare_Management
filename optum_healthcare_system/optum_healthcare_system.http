@@ -1,0 +1,6 @@
+@optum_healthcare_system_HostAddress = http://localhost:5038
+
+GET {{optum_healthcare_system_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

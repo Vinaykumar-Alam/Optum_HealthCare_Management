@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="optum_healthcare_system.Database/optum_healthcare_system.Database.sqlproj" Id="48a4489b-d763-4d16-8273-f9085bb09362">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="optum_healthcare_system.Models/optum_healthcare_system.Models.csproj" />
+  <Project Path="optum_healthcare_system.Repository/optum_healthcare_system.Repository.csproj" />
+  <Project Path="optum_healthcare_system.Tests/optum_healthcare_system.Tests.csproj" />
+  <Project Path="optum_healthcare_system/optum_healthcare_system.csproj" />
+</Solution>

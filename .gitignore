@@ -1,0 +1,26 @@
+# Build results
+bin/
+obj/
+
+# Visual Studio / VS Code
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# SQLite local database files
+*.db
+*.db-shm
+*.db-wal
+
+# NuGet
+*.nupkg
+**/packages/*
+
+# OS files
+.DS_Store
+Thumbs.db
